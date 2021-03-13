@@ -15,7 +15,10 @@ By sharing my analysis, I hope to exchange ideas with incredible talents on GitH
 
 - Other big data projects
 
+:school_satchel:__My academic expreiences:__
 
+* MS Business Analytics @ UCSD
+* BS Quantitative Finance @ NTHU
 
 📫 __How to reach me:__
 
