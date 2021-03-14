@@ -1,5 +1,6 @@
 
-####  👋 Hello, I'm Holly. I'm a data enthusiast who applies analytics to create better solutions for businesses and people. 
+###  👋 Hello, I'm Holly. 
+### I'm a data enthusiast who applies analytics to create better solutions for businesses and people. 
 I'm currently learning to solve complex business problems by using systematic, quantitative, and visual methodologies. 
 By sharing my analysis, I hope to exchange ideas with incredible talents on GitHub and inspire more people to join the data analytics journey and make this world a better version!
 
