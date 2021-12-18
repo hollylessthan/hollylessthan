@@ -23,7 +23,7 @@ By sharing my analysis, I hope to exchange ideas with incredible talents on GitH
 
 📫 __How to reach me:__
 
-* Email: __falo@ucsd.edu__
+* Email: __holly860312@gmail.com__
 
 <!---
 hollylessthan/hollylessthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
