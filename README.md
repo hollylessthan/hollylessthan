@@ -1,29 +1,46 @@
 
 ###  👋 Hello, I'm Holly. 
-### I'm a data enthusiast who applies analytics to create better solutions for businesses and people. 
-I'm passionate about solving complex business problems through systematic, quantitative, and visual methodologies. 
-By sharing my analysis, I hope to exchange ideas with incredible talents on GitHub and inspire more people to join the data analytics journey and make this world a better version!
+### I’m a data & AI engineer focusing on building production-grade analytics and agentic AI systems — systems that move beyond demos and actually support real decision-making.
+My work sits at the intersection of data engineering, analytics, and GenAI. I’m especially interested in how LLMs can reason over structured data, metadata, and business context to create trustworthy, end-to-end analytical workflows.
 
- 🌱 __My projects fall into the following categories:__
+ 🌱 __Current Project Focus__
 
-- Machine learning angorithm practice
+My recent work centers on:
 
-- Quantitative method application
+- **Agentic analytics systems**  
+  Multi-agent workflows for SQL generation, data profiling, preprocessing decisions, analysis, visualization, and narrative synthesis.
 
-- Text mining & classification
+- **GenAI for structured data**  
+  RAG over schemas, metrics, and metadata; constrained LLM reasoning on numerical datasets.
 
-- Customer and marketing analytics
+- **AI-ready data infrastructure**  
+  Analytics layers optimized for LLM consumption (wide tables, semantic context, embeddings, materialized views).
 
-- Other big data projects
+- **Metadata & documentation automation**  
+  LLM-driven generation and validation of analytical documentation and method cards.
 
-:school_satchel:__My academic expreiences:__
+- **Applied data engineering**  
+  Scalable pipelines, analytical modeling, and performance-oriented system design.
 
-* MS Business Analytics @ UCSD
-* BS Quantitative Finance @ NTHU
+🛠 __Stack (varies by project)__
 
-📫 __How to reach me:__
+- **Data:** SQL, DuckDB, Pandas, Spark, Iceberg  
+- **AI / Agents:** LLMs, RAG, LangChain, LangGraph, vector search  
+- **Infra:** Python, AWS (serverless, event-driven), CDK  
+- **Apps:** Streamlit, analytical UIs
 
-* Email: __holly860312@gmail.com__
+## 🎓 __Background__
+
+- MS, Business Analytics — UC San Diego  
+- BS, Quantitative Finance — National Tsing Hua University  
+
+I work as a data engineer building production analytics and GenAI systems, and this experience informs the architectural decisions explored in these projects.
+
+📫 __Contact__
+
+holly860312@gmail.com
+
+I’m interested in collaboration on agentic analytics, AI-native data platforms, and practical GenAI systems.
 
 <!---
 hollylessthan/hollylessthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
